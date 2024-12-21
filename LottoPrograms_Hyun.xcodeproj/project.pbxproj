@@ -1,0 +1,570 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		47883BDE2D166FD900F90BF3 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 47883BBF2D166FD800F90BF3 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 47883BC62D166FD800F90BF3;
+			remoteInfo = LottoPrograms_Hyun;
+		};
+		47883BE82D166FD900F90BF3 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 47883BBF2D166FD800F90BF3 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 47883BC62D166FD800F90BF3;
+			remoteInfo = LottoPrograms_Hyun;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		47883BC72D166FD800F90BF3 /* LottoPrograms_Hyun.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LottoPrograms_Hyun.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		47883BDD2D166FD900F90BF3 /* LottoPrograms_HyunTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LottoPrograms_HyunTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		47883BE72D166FD900F90BF3 /* LottoPrograms_HyunUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LottoPrograms_HyunUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		47883BEF2D166FD900F90BF3 /* Exceptions for "LottoPrograms_Hyun" folder in "LottoPrograms_Hyun" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = 47883BC62D166FD800F90BF3 /* LottoPrograms_Hyun */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		47883BC92D166FD800F90BF3 /* LottoPrograms_Hyun */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				47883BEF2D166FD900F90BF3 /* Exceptions for "LottoPrograms_Hyun" folder in "LottoPrograms_Hyun" target */,
+			);
+			path = LottoPrograms_Hyun;
+			sourceTree = "<group>";
+		};
+		47883BE02D166FD900F90BF3 /* LottoPrograms_HyunTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = LottoPrograms_HyunTests;
+			sourceTree = "<group>";
+		};
+		47883BEA2D166FD900F90BF3 /* LottoPrograms_HyunUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = LottoPrograms_HyunUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		47883BC42D166FD800F90BF3 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		47883BDA2D166FD900F90BF3 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		47883BE42D166FD900F90BF3 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		47883BBE2D166FD800F90BF3 = {
+			isa = PBXGroup;
+			children = (
+				47883BC92D166FD800F90BF3 /* LottoPrograms_Hyun */,
+				47883BE02D166FD900F90BF3 /* LottoPrograms_HyunTests */,
+				47883BEA2D166FD900F90BF3 /* LottoPrograms_HyunUITests */,
+				47883BC82D166FD800F90BF3 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		47883BC82D166FD800F90BF3 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				47883BC72D166FD800F90BF3 /* LottoPrograms_Hyun.app */,
+				47883BDD2D166FD900F90BF3 /* LottoPrograms_HyunTests.xctest */,
+				47883BE72D166FD900F90BF3 /* LottoPrograms_HyunUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		47883BC62D166FD800F90BF3 /* LottoPrograms_Hyun */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 47883BF02D166FD900F90BF3 /* Build configuration list for PBXNativeTarget "LottoPrograms_Hyun" */;
+			buildPhases = (
+				47883BC32D166FD800F90BF3 /* Sources */,
+				47883BC42D166FD800F90BF3 /* Frameworks */,
+				47883BC52D166FD800F90BF3 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				47883BC92D166FD800F90BF3 /* LottoPrograms_Hyun */,
+			);
+			name = LottoPrograms_Hyun;
+			packageProductDependencies = (
+			);
+			productName = LottoPrograms_Hyun;
+			productReference = 47883BC72D166FD800F90BF3 /* LottoPrograms_Hyun.app */;
+			productType = "com.apple.product-type.application";
+		};
+		47883BDC2D166FD900F90BF3 /* LottoPrograms_HyunTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 47883BF52D166FD900F90BF3 /* Build configuration list for PBXNativeTarget "LottoPrograms_HyunTests" */;
+			buildPhases = (
+				47883BD92D166FD900F90BF3 /* Sources */,
+				47883BDA2D166FD900F90BF3 /* Frameworks */,
+				47883BDB2D166FD900F90BF3 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				47883BDF2D166FD900F90BF3 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				47883BE02D166FD900F90BF3 /* LottoPrograms_HyunTests */,
+			);
+			name = LottoPrograms_HyunTests;
+			packageProductDependencies = (
+			);
+			productName = LottoPrograms_HyunTests;
+			productReference = 47883BDD2D166FD900F90BF3 /* LottoPrograms_HyunTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		47883BE62D166FD900F90BF3 /* LottoPrograms_HyunUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 47883BF82D166FD900F90BF3 /* Build configuration list for PBXNativeTarget "LottoPrograms_HyunUITests" */;
+			buildPhases = (
+				47883BE32D166FD900F90BF3 /* Sources */,
+				47883BE42D166FD900F90BF3 /* Frameworks */,
+				47883BE52D166FD900F90BF3 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				47883BE92D166FD900F90BF3 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				47883BEA2D166FD900F90BF3 /* LottoPrograms_HyunUITests */,
+			);
+			name = LottoPrograms_HyunUITests;
+			packageProductDependencies = (
+			);
+			productName = LottoPrograms_HyunUITests;
+			productReference = 47883BE72D166FD900F90BF3 /* LottoPrograms_HyunUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		47883BBF2D166FD800F90BF3 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1610;
+				LastUpgradeCheck = 1610;
+				TargetAttributes = {
+					47883BC62D166FD800F90BF3 = {
+						CreatedOnToolsVersion = 16.1;
+					};
+					47883BDC2D166FD900F90BF3 = {
+						CreatedOnToolsVersion = 16.1;
+						TestTargetID = 47883BC62D166FD800F90BF3;
+					};
+					47883BE62D166FD900F90BF3 = {
+						CreatedOnToolsVersion = 16.1;
+						TestTargetID = 47883BC62D166FD800F90BF3;
+					};
+				};
+			};
+			buildConfigurationList = 47883BC22D166FD800F90BF3 /* Build configuration list for PBXProject "LottoPrograms_Hyun" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 47883BBE2D166FD800F90BF3;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 47883BC82D166FD800F90BF3 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				47883BC62D166FD800F90BF3 /* LottoPrograms_Hyun */,
+				47883BDC2D166FD900F90BF3 /* LottoPrograms_HyunTests */,
+				47883BE62D166FD900F90BF3 /* LottoPrograms_HyunUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		47883BC52D166FD800F90BF3 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		47883BDB2D166FD900F90BF3 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		47883BE52D166FD900F90BF3 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		47883BC32D166FD800F90BF3 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		47883BD92D166FD900F90BF3 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		47883BE32D166FD900F90BF3 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		47883BDF2D166FD900F90BF3 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 47883BC62D166FD800F90BF3 /* LottoPrograms_Hyun */;
+			targetProxy = 47883BDE2D166FD900F90BF3 /* PBXContainerItemProxy */;
+		};
+		47883BE92D166FD900F90BF3 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 47883BC62D166FD800F90BF3 /* LottoPrograms_Hyun */;
+			targetProxy = 47883BE82D166FD900F90BF3 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		47883BF12D166FD900F90BF3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = LottoPrograms_Hyun/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.hyun.LottoPrograms-Hyun";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		47883BF22D166FD900F90BF3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = LottoPrograms_Hyun/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.hyun.LottoPrograms-Hyun";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		47883BF32D166FD900F90BF3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		47883BF42D166FD900F90BF3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		47883BF62D166FD900F90BF3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.hyun.LottoPrograms-HyunTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/LottoPrograms_Hyun.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/LottoPrograms_Hyun";
+			};
+			name = Debug;
+		};
+		47883BF72D166FD900F90BF3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.hyun.LottoPrograms-HyunTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/LottoPrograms_Hyun.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/LottoPrograms_Hyun";
+			};
+			name = Release;
+		};
+		47883BF92D166FD900F90BF3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.hyun.LottoPrograms-HyunUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = LottoPrograms_Hyun;
+			};
+			name = Debug;
+		};
+		47883BFA2D166FD900F90BF3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.hyun.LottoPrograms-HyunUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = LottoPrograms_Hyun;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		47883BC22D166FD800F90BF3 /* Build configuration list for PBXProject "LottoPrograms_Hyun" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				47883BF32D166FD900F90BF3 /* Debug */,
+				47883BF42D166FD900F90BF3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		47883BF02D166FD900F90BF3 /* Build configuration list for PBXNativeTarget "LottoPrograms_Hyun" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				47883BF12D166FD900F90BF3 /* Debug */,
+				47883BF22D166FD900F90BF3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		47883BF52D166FD900F90BF3 /* Build configuration list for PBXNativeTarget "LottoPrograms_HyunTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				47883BF62D166FD900F90BF3 /* Debug */,
+				47883BF72D166FD900F90BF3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		47883BF82D166FD900F90BF3 /* Build configuration list for PBXNativeTarget "LottoPrograms_HyunUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				47883BF92D166FD900F90BF3 /* Debug */,
+				47883BFA2D166FD900F90BF3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 47883BBF2D166FD800F90BF3 /* Project object */;
+}
